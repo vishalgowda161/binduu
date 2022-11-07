@@ -1,1 +1,2 @@
 # binduu
+jss polytechnic
